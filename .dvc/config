@@ -3,5 +3,4 @@
 ['remote "remote_storage"']
     url = ssh://videtics@ipe.videtics.net/raid/remote_storage2/data
     port = 32900
-    password = v1d3t1cs4dgx@2021
-    ask_password = false
+    ask_password = true
